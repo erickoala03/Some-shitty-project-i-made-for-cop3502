@@ -1,2 +1,2 @@
-# Some-shitty-project-i-made-for-cop3502
+# Some-shitty-project-i-made-for-cop
 YUh
