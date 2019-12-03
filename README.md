@@ -1,2 +1,2 @@
-# Some-shitty-project-i-made-for-cop
+# Some-i-made-for-cop
 YUh
