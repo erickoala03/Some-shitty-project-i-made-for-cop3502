@@ -1,2 +1,3 @@
-# Some-i-made-for-cop
-YUh
+# A simple black-jack program
+
+
